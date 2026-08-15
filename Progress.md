@@ -26,10 +26,15 @@
   - Tabulation
   - DP Array Approach
 
+- [x] Day 5 - Maximum Sum of Non-Adjacent Elements
+  - Recursive
+  - Memoization
+  - Tabulation
+  - Space Optimization
+
 ---
 
 ## Upcoming
 
-- [ ] Maximum Sum of Non-Adjacent Elements
 - [ ] House Robber
 - [ ] Ninja Training
