@@ -1,3 +1,5 @@
+# Dynamic Programming Progress
+
 ## Completed
 
 - [x] Day 1 - Fibonacci
@@ -18,9 +20,16 @@
   - Tabulation
   - Space Optimization
 
+- [x] Day 4 - Frog Jump with K Distance
+  - Recursive
+  - Memoization
+  - Tabulation
+  - DP Array Approach
+
 ---
 
 ## Upcoming
 
-- [ ] Frog Jump with K Distance
 - [ ] Maximum Sum of Non-Adjacent Elements
+- [ ] House Robber
+- [ ] Ninja Training
