@@ -32,9 +32,14 @@
   - Tabulation
   - Space Optimization
 
+- [x] Day 6 - House Robber
+  - Recursive
+  - Memoization
+  - Tabulation
+  - Space Optimization
+
 ---
 
 ## Upcoming
 
-- [ ] House Robber
 - [ ] Ninja Training
